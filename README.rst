@@ -1,0 +1,1 @@
+The purpose of this project is to show how to upload a python package to the PYPI server
