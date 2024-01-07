@@ -1,1 +1,2 @@
-print("This is your first python project")
+def hello_world():
+    return "Hello, world!"
